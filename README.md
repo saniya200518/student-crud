@@ -8,7 +8,7 @@ A Python backend to manage student records (Create, Read, Update, Delete) using 
 
 ## Installation
 ```
-git clone https://github.com/<your-username>/student-crud.git
+git clone https://github.com/saniya200518/student-crud.git
 cd student-crud
 python -m venv venv
 venv\Scripts\activate
